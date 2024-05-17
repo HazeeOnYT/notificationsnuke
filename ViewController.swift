@@ -12,8 +12,8 @@ class ViewController: UIViewController {
         let center = UNUserNotificationCenter.current()
 
         let content = UNMutableNotificationContent()
-        content.title = "Good Morning!"
-        content.body = "You slept for a day, Good Morning!"
+        content.title = "GET BOMBED"
+        content.body = "get your notifications bombed"
         content.sound = UNNotificationSound.default
 
         var dateComponents = DateComponents()
